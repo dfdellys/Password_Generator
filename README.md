@@ -3,7 +3,7 @@ This project is a homework assignment for Columbia Engineering coding bootcamp.
 
 This application emphasizes the use of Javascript to generate a random, secure password for the user.
 
-This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
+This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link (https://dfdellys.github.io/Password_Generator/) or download the sources files to use this as a template.
 
 ## Summary
 HTML and CSS and Javascript documents create a random password generator.
